@@ -1,0 +1,16 @@
+.root{
+    -fx-background-color: navy;
+}
+.label{
+    -fx-text-fill: yellow;
+    -fx-font-size: 15pt;
+}
+.button{
+    -fx-background-color: navy;
+    -fx-text-fill: yellow;
+    -fx-border-style: solid;
+    -fx-border-color: yellow;
+    -fx-border-radius: 50pt;
+    -fx-border-width: 5pt;
+    -fx-background-radius: 50pt;
+}
